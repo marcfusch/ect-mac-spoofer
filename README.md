@@ -1,11 +1,15 @@
 # ect-mac-spoofer
 
 This tool is used to get a random mac address, valid for connecting to "l'e-C Tablette" Wi-Fi networks with your mac.
-##How to use:
+## How to use:
 It's very simple:
 ```
 git clone https://github.com/marcfusch/ect-mac-spoofer/
 cd ect-mac-spoofer
+```
+
+Now to run the script:
+```
 chmod 755 mac.sh
 ./mac.sh
 ```
