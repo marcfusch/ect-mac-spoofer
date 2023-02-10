@@ -17,6 +17,4 @@ Now to run the script:
 chmod 755 mac.sh
 ./mac.sh
 ```
-You will just need to enter your root password in order to change the mac address.
-
-Once the script closes, you just need to connect to the Wi-Fi network and log-in with your credentials.
+You will just need to enter your root password in order to change the mac address and connect to the Wi-Fi network.
